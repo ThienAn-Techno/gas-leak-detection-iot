@@ -16,7 +16,7 @@ An IoT-based gas leak detection system designed to monitor gas concentration and
 - Buzzer alarm
 
 ## Team Size
-4 Members
+6 Members
 
 ## My Role
 Team Member
